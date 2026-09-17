@@ -4,7 +4,7 @@
 <h2> / Sobre mi /</h2>
   
 - ⭐ Nuevo **desarrollador web** en este mundillo
-- 👾 Aprendiendo Next.js
+- 👾 Aprendiendo React
   
 <h2> / Mis habilidades / </h2>
   
